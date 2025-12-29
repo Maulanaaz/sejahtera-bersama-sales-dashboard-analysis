@@ -56,6 +56,7 @@ sejahtera-bersama-sales-dashboard-analysis/
 │   ├── query_ddl.sql
 │   ├── query_foreign.sql
 │   └── query_master.sql
+|
 ├── presentation/            # PPT File
 │   └── Sales_Analysis_Report.pdf
 │
