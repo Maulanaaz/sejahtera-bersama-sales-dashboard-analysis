@@ -1,7 +1,7 @@
 # 📊 Sales Performance Dashboard - PT Sejahtera Bersama
 
-![Dashboard Preview]([https://github.com/Maulanaaz/sejahtera-bersama-sales-dashboard-analysis/blob/main/images/dashboard_final.png])
-> *Interactive Dashboard Preview. [Click here to view live dashboard]([https://lookerstudio.google.com/reporting/5c6417f6-b814-43d1-924c-38a7ab2ef546]).*
+![Dashboard Preview](https://github.com/Maulanaaz/sejahtera-bersama-sales-dashboard-analysis/blob/main/images/dashboard_final.png)
+> *Interactive Dashboard Preview. [Click here to view live dashboard](https://lookerstudio.google.com/reporting/5c6417f6-b814-43d1-924c-38a7ab2ef546).*
 
 ## 📝 Project Overview
 
@@ -64,4 +64,5 @@ sejahtera-bersama-sales-dashboard-analysis/
 ```
 
 👤 Author
+
 Maulana Zulfikar Aziz
