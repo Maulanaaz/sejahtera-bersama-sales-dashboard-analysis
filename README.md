@@ -57,9 +57,7 @@ sejahtera-bersama-sales-dashboard-analysis/
 │   ├── query_foreign.sql
 │   └── query_master.sql
 |
-├── presentation/            # PPT File
-│   └── Sales_Analysis_Report.pdf
-│
+├── sales_analysis_report.pdf            # PPT File
 ├── .gitignore               # Git settings
 └── README.md                # The main readme
 ```
