@@ -62,6 +62,6 @@ sejahtera-bersama-sales-dashboard-analysis/
 └── README.md                # The main readme
 ```
 
-👤 Author
-
-Maulana Zulfikar Aziz
+## 📬 Contact
+Created by **Maulana Zulfikar Aziz**
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maulanaaz)
